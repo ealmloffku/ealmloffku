@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is my profile specifically for school projects. If you would like to see my professional work or personal projects, my main profile is at https://github.com/ealmloff
+This profile is specifically for school projects. If you would like to see my professional work or personal projects, my main profile is at https://github.com/ealmloff
 
 <!--
 **ealmloffku/ealmloffku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
